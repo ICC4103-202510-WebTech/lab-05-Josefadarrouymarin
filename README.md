@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+I couldn’t do it on my computer because GitHub wasn’t working, and I couldn’t open the code in Visual Studio Code either (I emailed the professor about this issue), so I borrowed my friend’s computer. That’s why the commit appears from her account.
